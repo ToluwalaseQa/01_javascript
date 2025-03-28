@@ -1,0 +1,13 @@
+{
+  "name": "01_javascript",
+  "version": "1.0.0",
+  "description": "Understanding of modern JavaScript features that are crucial for React development.",
+  "main": "userProfile.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
