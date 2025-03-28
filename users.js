@@ -1,3 +1,4 @@
+// Export all necessary users details
 export const users = [
   {
     id: 1,
